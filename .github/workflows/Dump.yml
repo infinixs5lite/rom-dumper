@@ -5,15 +5,15 @@ on:
       DOWNLOAD_URL:
         description: 'DOWNLOAD_URL'
         required: true
-        default: 'https://mva2.androidfilehost.com/dl/QZOc_Pt3uqoT1PhQUDUC_A/1690810658/4279422670115710164/%5BHovatek%5D_Tecno_KG5J_%28KG5j-H6126ABC-RGo-OP-220929V405%29.zip.zip'
+        default: 'https://rom.download.nubia.com/Europe/NX709J/V422/NX709J-update.zip'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'TECNO SPARK 8C KG5j'
+        default: 'Nubia red magic 7 pro'
       ROM_TYPE:
         description: 'ROM_TYPE'
         required: true
-        default: 'STOCK ROM'
+        default: 'OTA'
       FILES_TYPE:
         description: 'FILES_TYPE'
         required: true
