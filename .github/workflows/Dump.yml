@@ -5,15 +5,15 @@ on:
       DOWNLOAD_URL:
         description: 'DOWNLOAD_URL'
         required: true
-        default: 'https://rom.download.nubia.com/Europe/NX709J/V422/NX709J-update.zip'
+        default: 'https://mva2.androidfilehost.com/dl/7ZwX1B5p-Mvv7JtU7Gse5A/1702476601/4279422670115722442/%5BHovatek%5D_Tecno_BF7h_%28BF7h-H6127YZ-SGo-AS-221220V491%29.zip'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'Nubia red magic 7 pro'
+        default: 'tecno pop 7 pro'
       ROM_TYPE:
         description: 'ROM_TYPE'
         required: true
-        default: 'OTA'
+        default: 'FIRMWARE'
       FILES_TYPE:
         description: 'FILES_TYPE'
         required: true
