@@ -5,11 +5,11 @@ on:
       DOWNLOAD_URL:
         description: 'DOWNLOAD_URL'
         required: true
-        default: 'https://mva2.androidfilehost.com/dl/7ZwX1B5p-Mvv7JtU7Gse5A/1702476601/4279422670115722442/%5BHovatek%5D_Tecno_BF7h_%28BF7h-H6127YZ-SGo-AS-221220V491%29.zip'
+        default: 'https://cdnorg.d.miui.com/V14.0.8.0.TGPMIXM/miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'tecno pop 7 pro'
+        default: 'redmi 13c'
       ROM_TYPE:
         description: 'ROM_TYPE'
         required: true
