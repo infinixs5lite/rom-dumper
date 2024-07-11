@@ -5,7 +5,7 @@ on:
       DOWNLOAD_URL:
         description: 'DOWNLOAD_URL'
         required: true
-        default: 'https://cdnorg.d.miui.com/V14.0.8.0.TGPMIXM/miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip'
+        default: 'https://www.mediafire.com/file/xc5y61iapoierfk/BF7h-H6127Z-SGo-AS-230406V733%2528MobiFirmware.com%2529.zip'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
